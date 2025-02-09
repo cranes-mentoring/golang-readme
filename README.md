@@ -103,6 +103,7 @@
 - [Apache Kafka Official Docs (ENG)](https://kafka.apache.org/documentation/)
 
 **Go-клиенты:**
+- [IBM Sarama](https://github.com/IBM/sarama) - лучшая библиотека для работы с Kafka.
 - [Confluent Kafka Golang](https://github.com/confluentinc/confluent-kafka-go) – от Confluent, основан на `librdkafka`.
 - [Segmentio/kafka-go](https://github.com/segmentio/kafka-go) – популярный и простой в использовании.
 
@@ -150,6 +151,10 @@
 ---
 
 ## 9. Основные паттерны (в том числе Outbox)
+
+**Книги и сайты**
+- [Design Patterns](https://refactoring.guru/design-patterns)
+- [A pattern language for microservices](https://microservices.io/patterns)
 
 **Обзор паттернов проектирования:**
 - [Go Patterns (ENG)](https://github.com/tmrts/go-patterns) – большой репозиторий-шпаргалка по паттернам в Go.
