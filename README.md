@@ -236,3 +236,33 @@
 - [Testcontainers – документация (ENG)](https://www.testcontainers.org/) – общее описание и гайды (в основном для Java, но концепция та же).
 - [Пример использования testcontainers-go (ENG)](https://dev.to/douglasmakey/integration-testing-with-testcontainers-go-4ljg)
 - [Testcontainers (RU, Habr)](https://habr.com/ru/articles/558488/) – пример на Java, но полезен и для Go.
+  
+
+--- 
+
+## 15. Web
+
+**Пакет net/http:**
+- HTTP сервер и клиент (Go Doc)(https://pkg.go.dev/net/http) – базовый пакет для создания HTTP серверов и клиентов.
+Примеры:
+- Простой HTTP сервер (GoDoc Example)(https://pkg.go.dev/net/http#example-Server) – пример создания простого HTTP сервера.
+
+**Библиотека Fiber:**
+-Fiber (GitHub)(https://github.com/gofiber/fiber) – высокопроизводительная веб-платформа для создания веб-приложений и API.
+Примеры: Пример создания REST API с Fiber (GitHub)(https://github.com/gofiber/fiber/tree/master/examples/rest)
+
+**Библиотека Gin:**
+- Gin (GitHub)(https://github.com/gin-gonic/gin) – высокопроизводительный веб-фреймворк для Go.
+Пример создания REST API с Gin (GitHub)(https://github.com/gin-gonic/gin/tree/master/examples)
+
+**Библиотека Echo:**
+- Echo (GitHub)(https://github.com/labstack/echo) – минималистичный и мощный веб-фреймворк.
+Пример создания REST API с Echo (GitHub)(https://github.com/labstack/echo/tree/master/examples)
+
+**Библиотека Gorilla Mux:**
+- Gorilla Mux (GitHub)(https://github.com/gorilla/mux) – гибкая и мощная маршрутизация для веб-приложений.
+Пример использования Gorilla Mux (GitHub)(https://github.com/gorilla/mux/tree/master/examples)
+
+**Статьи:**
+- Building a RESTful API with Go and Gin (ENG)(https://www.digitalocean.com/community/tutorials/how-to-build-a-restful-api-with-go-and-gin)
+- Creating a REST API with Go and Gin (ENG)(https://medium.com/@saurabh47gupta/creating-a-rest-api-with-go-and-gin-gonic-499991991998)
